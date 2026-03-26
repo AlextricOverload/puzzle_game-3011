@@ -1,3 +1,7 @@
+// Board.java
+// puzzle_game-3011
+// Last Modified (YYYY-MM-DD): 2026-03-26
+
 package puzzle;
 
 public class Board {
